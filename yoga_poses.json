@@ -1,0 +1,50 @@
+{
+    "ArdhaChandrasana": {
+        "difficulty": "Intermediate",
+        "description": "Half Moon Pose. A standing balance posture that strengthens the legs, ankles, and core while improving coordination and concentration.",
+        "benefits": "Improves balance and coordination, strengthens legs and ankles, stretches the chest, shoulders, and spine.",
+        "image": "ArdhaChandrasana.jpeg"
+    },
+    "BaddhaKonasana": {
+        "difficulty": "Beginner",
+        "description": "Bound Angle Pose. A seated forward bend that stretches the inner thighs, groin, and knees while providing a gentle twist to the spine.",
+        "benefits": "Stimulates abdominal organs, ovaries and prostate gland, bladder, and kidneys. Stretches the inner thighs, groins, and knees.",
+        "image": "BaddhaKonasana.jpg"
+    },
+    "Downward-Facing Dog": {
+        "difficulty": "Beginner",
+        "description": "An inversion that builds strength in the arms, shoulders, and core while stretching the hamstrings and calves.",
+        "benefits": "Calms the brain and helps relieve stress and mild depression, energizes the body, stretches the shoulders, hamstrings, calves, arches, and hands.",
+        "image": "Downward_dog.jpeg"
+    },
+    "Natarajasana": {
+        "difficulty": "Advanced",
+        "description": "Dancer Pose. A graceful and challenging standing posture that requires balance, flexibility, and concentration.",
+        "benefits": "Stretches the shoulders, chest, thighs, groin, and abdomen. Strengthens the legs and ankles, improves balance.",
+        "image": "Natarajasana.jpg"
+    },
+    "Triangle": {
+        "difficulty": "Beginner",
+        "description": "Triangle Pose. A standing pose that stretches the legs, hips, and spine while improving balance and focus.",
+        "benefits": "Stretches and strengthens the thighs, knees, and ankles, relieves backache, especially through second trimester of pregnancy.",
+        "image": "Triangle.jpg"
+    },
+    "UtkataKonasana": {
+        "difficulty": "Intermediate",
+        "description": "Goddess Pose. A powerful standing pose that strengthens the legs, ankles, and core while improving balance and stability.",
+        "benefits": "Strengthens the legs, glutes, hips, and core muscles, improves balance, opens the hips.",
+        "image": "UtkataKonasana.jpg"
+    },
+    "Veerabhadrasana": {
+        "difficulty": "Intermediate",
+        "description": "Warrior Pose. A series of standing postures that build strength, stamina, and focus while promoting a sense of empowerment and determination.",
+        "benefits": "Strengthens and stretches the legs and ankles, increases stamina, relieves backaches.",
+        "image": "Veerabhadrasana.jpg"
+    },
+    "Vrukshasana": {
+        "difficulty": "Beginner",
+        "description": "Tree Pose. A standing balance posture that strengthens the legs, ankles, and core while improving focus and concentration.",
+        "benefits": "Strengthens thighs, calves, ankles, and spine, stretches the groins and inner thighs, chest, and shoulders.",
+        "image": "Vrukshasana.png"
+    }
+}
