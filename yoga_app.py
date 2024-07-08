@@ -11,10 +11,9 @@ import tempfile
 import random
 import openai
 import threading
-
-# Set up OpenAI API key
 import os
 from dotenv import load_dotenv
+
 # Set up OpenAI API key
 load_dotenv()
 openai.api_key = os.environ.get("OPENAI_API_KEY")
